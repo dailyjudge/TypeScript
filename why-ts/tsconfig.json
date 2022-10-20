@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "checkJs": true,
+        "noImplicitAny": true,
+    }
+}
+
+// allowJs : js 허용 여부
+// checkJs : @ts-check() : 오류 표시 여부
+// noImplicitAny : 모든 타입에 대해서 최소한 Any라도 명시해줘야 한다.
